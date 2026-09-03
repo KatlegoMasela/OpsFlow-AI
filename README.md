@@ -276,4 +276,3 @@ Full OpenAPI documentation available at `http://localhost:8000/docs`
 **Built with ❤️ for small business operators everywhere.**
 
 </div>
-```
