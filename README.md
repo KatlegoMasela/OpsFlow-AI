@@ -326,7 +326,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 **Built with ❤️ for small business operators everywhere.**
 
-[Report Bug](https://github.com/yourusername/opsflow-ai/issues) · [Request Feature](https://github.com/yourusername/opsflow-ai/issues) · [Star on GitHub](https://github.com/yourusername/opsflow-ai)
-
 </div>
 ```
