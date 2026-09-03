@@ -277,42 +277,6 @@ Full OpenAPI documentation available at `http://localhost:8000/docs`
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and development process.
-
----
-
-## 📊 How to Position This (For Business Use)
-
-When sharing this with decision-makers, lead with the **ROI**:
-
-| Metric | Value |
-| :--- | :--- |
-| Time saved per person/week | 8–12 hours |
-| Annual waste per 5-person team | ~$100,000 |
-| OpsFlow AI annual cost | ~$2,400 |
-| **Net annual savings** | **~$97,600** |
-| **ROI** | **~4,000%** |
-
-**Payback period:** Less than 1 month.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
 ## 🙏 Acknowledgments
 
 - Inspired by the [Notion AI Operations Playbook](https://www.notion.com/ai-operations-playbook) (July 2026 Edition)
