@@ -264,19 +264,6 @@ Full OpenAPI documentation available at `http://localhost:8000/docs`
 
 ---
 
-## 🗺️ Roadmap
-
-| Phase | Features | Status |
-| :--- | :--- | :--- |
-| **v1.0** | Gmail triage, Daily brief, Deal staler, Meeting notes, Streamlit dashboard | ✅ Complete |
-| **v1.1** | Slack integration (read decisions, post briefs) | 🚧 In Progress |
-| **v1.2** | Microsoft 365 support (Outlook, Teams, Exchange) | 📋 Planned |
-| **v1.3** | Multi-tenant SaaS mode with user auth | 📋 Planned |
-| **v2.0** | Custom agent builder (no-code configuration) | 🔮 Future |
-| **v2.1** | Two-way sync with Asana/Trello/Jira | 🔮 Future |
-
----
-
 ## 🙏 Acknowledgments
 
 - Inspired by the [Notion AI Operations Playbook](https://www.notion.com/ai-operations-playbook) (July 2026 Edition)
