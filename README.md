@@ -13,8 +13,6 @@
 
 **Stop being the integration between your tools. Let AI handle the glue work.**
 
-[Report Bug](https://github.com/yourusername/opsflow-ai/issues) · [Request Feature](https://github.com/yourusername/opsflow-ai/issues) · [Documentation](docs/README.md)
-
 </div>
 
 ---
