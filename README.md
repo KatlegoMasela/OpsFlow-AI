@@ -25,10 +25,10 @@ Small teams run on a patchwork—tasks in one tool, docs in another, decisions b
 
 **OpsFlow AI** sits between your existing tools (Gmail, Calendar, Slack) and an AI orchestration layer. It automates the glue work:
 
-- 🧹 Reads emails → Creates tasks & drafts replies
-- 🔔 Detects stale deals → Drafts follow-ups
-- 📅 Compiles daily briefs from meetings, tasks, and comms
-- 📝 Summarizes meetings → Extracts action items
+- Reads emails → Creates tasks & drafts replies
+- Detects stale deals → Drafts follow-ups
+- Compiles daily briefs from meetings, tasks, and comms
+- Summarizes meetings → Extracts action items
 
 **No change in how you work. No new apps to learn. Just less busywork.**
 
@@ -51,11 +51,11 @@ Small teams run on a patchwork—tasks in one tool, docs in another, decisions b
 
 | Agent | What It Does | Trigger |
 | :--- | :--- | :--- |
-| **📬 Inbox Triage** | Classifies emails (URGENT/ACTION/FYI/NOISE), drafts replies, creates tasks | Every 15 min or webhook on new email |
-| **📉 Deal Staler** | Detects contacts with no touch in 5+ days, drafts follow-ups | Daily at 9:00 AM |
-| **📋 Daily Brief** | Compiles meetings, top priorities, stale deals, and yesterday's highlights | Daily at 8:00 AM |
-| **📝 Meeting Notes** | Transcribes, summarizes, extracts action items with owners | After calendar event ends |
-| **🧠 RAG Knowledge** | Semantic search across company policies, processes, and decisions | On-demand via API |
+| **Inbox Triage** | Classifies emails (URGENT/ACTION/FYI/NOISE), drafts replies, creates tasks | Every 15 min or webhook on new email |
+| **Deal Staler** | Detects contacts with no touch in 5+ days, drafts follow-ups | Daily at 9:00 AM |
+| **Daily Brief** | Compiles meetings, top priorities, stale deals, and yesterday's highlights | Daily at 8:00 AM |
+| **Meeting Notes** | Transcribes, summarizes, extracts action items with owners | After calendar event ends |
+| **RAG Knowledge** | Semantic search across company policies, processes, and decisions | On-demand via API |
 
 ---
 
